@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         //测试git
         //测试git3
         //测试git5
+        //测试git6
     }
 }
